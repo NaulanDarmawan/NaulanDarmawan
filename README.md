@@ -73,7 +73,7 @@ Advanced stacks and disciplines I am currently mastering.
 
 <p align="center">
   <a href="https://github.com/NaulanDarmawan/NaulanDarmawan/actions/workflows/main.yml">
-    <img src="https://github.com/NaulanDarmawan/NaulanDarmawan/raw/output/dist/github-contribution-grid-snake.svg" alt="snake eating my contributions" width="85%" />
+    <img src="https://github.com/NaulanDarmawan/NaulanDarmawan/raw/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" width="85%" />
   </a>
 </p>
 
