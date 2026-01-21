@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1584" height="672" src="https://github.com/user-attachments/assets/d245864d-3df0-419d-a192-bf885a528233" alt="Welcome Banner Naulan" style="border-radius: 15px; margin-bottom: 20px" />
+<img width="1584" height="400" src="https://github.com/user-attachments/assets/d245864d-3df0-419d-a192-bf885a528233" alt="Welcome Banner Naulan" style="border-radius: 15px; margin-bottom: 20px" />
 
 <h1 align="center">✨ Hello World, I'm Naulan Darmawan! ✨</h1>
 
